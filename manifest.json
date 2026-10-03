@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Secret-chat",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Secret chat",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
